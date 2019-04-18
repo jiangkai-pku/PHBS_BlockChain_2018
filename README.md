@@ -25,5 +25,5 @@ The industrial blockchain uses the mother-child double-chain model: the DPOS mai
  * Improve industry impact: Promote the construction of public service platform for industrial blockchain by leveraging the advantages of industrial alliances;
  * Improve policy environment: Accelerate the development of relevant laws and regulations for blockchain and protect corporate intellectual property rights.
 ### Reference
- * [1] 徐强.(2018). 深化制造业数字化变革，探索建设工业区块链. [J].智能制造(10), 20-23.
- * [2] 李祥利. (2017). 区块链瞄准工业互联网，两把刷子解决互信机制. [J]. 今日制造与升级(3), 19-21.
+ * 徐强.(2018). 深化制造业数字化变革，探索建设工业区块链. [J].智能制造(10), 20-23.
+ * 李祥利. (2017). 区块链瞄准工业互联网，两把刷子解决互信机制. [J]. 今日制造与升级(3), 19-21.
