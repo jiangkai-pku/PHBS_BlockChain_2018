@@ -29,5 +29,5 @@ The industrial blockchain uses the mother-child double-chain model: the DPOS mai
  * Improve policy environment: Accelerate the development of relevant laws and regulations for blockchain and protect corporate intellectual property rights.
 ![Advice to policy maker](https://github.com/jiangkai-pku/PHBS_BlockChain_2018/blob/master/Image/Advice%20to%20policy%20maker.png)
 ### Reference
- * [Github](http://kns.cnki.net//KXReader/Detail?TIMESTAMP=636912161015717500&DBCODE=CJFQ&TABLEName=CJFDLAST2019&FileName=JSFY201810029&RESULT=1&SIGN=2JSJx1lU6VTqiP1AAW%2bCNdpPe%2fc%3d&UID=WEEvREcwSlJHSldRa1FhdXNXaEd2QTRwQ1R5TERJZ25ZWW1VZEpMbUVnND0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!)徐强.(2018). 深化制造业数字化变革，探索建设工业区块链. [J].智能制造(10), 20-23.
+ * [徐强.(2018). 深化制造业数字化变革，探索建设工业区块链. [J].智能制造(10), 20-23.](http://kns.cnki.net//KXReader/Detail?TIMESTAMP=636912161015717500&DBCODE=CJFQ&TABLEName=CJFDLAST2019&FileName=JSFY201810029&RESULT=1&SIGN=2JSJx1lU6VTqiP1AAW%2bCNdpPe%2fc%3d&UID=WEEvREcwSlJHSldRa1FhdXNXaEd2QTRwQ1R5TERJZ25ZWW1VZEpMbUVnND0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!)
  * 李祥利. (2017). 区块链瞄准工业互联网，两把刷子解决互信机制. [J]. 今日制造与升级(3), 19-21.
