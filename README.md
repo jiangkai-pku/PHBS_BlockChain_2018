@@ -21,11 +21,13 @@ The industrial blockchain uses the mother-child double-chain model: the DPOS mai
  * Consensus: From the perspective of the public chain, the consensus algorithm is the choice of fairness and efficiency. Proponents of various consensus algorithms have thus formed different blockchain ecosystems, like various public chains, alliance chains, and private chains.
  * Privacy: Personal privacy protection is a strong demand, but at the same time, the regulator must be made aware of the transaction content, otherwise it will get out of control. Privacy security is a double-edged sword that technically meets the need for privacy protection, but it also increases the complexity of system implementation.
  * Expandability: The scalability problem is how to store the non-tamperable blockchain data as efficiently as possible, mainly focusing on two directions: a. Moving some transactions from the transaction layer to the sub-blockchain; b. starting from reducing storage.
+![Challenges](https://github.com/jiangkai-pku/PHBS_BlockChain_2018/blob/master/Challenges.png)
 ### 5、Advice to policy maker
  * Technology innovation: Forming a development consortium combining production, education and research;
  * Serve the real economy: Cultivate industry leaders, leading companies and industrial ecology;
  * Improve industry impact: Promote the construction of public service platform for industrial blockchain by leveraging the advantages of industrial alliances;
  * Improve policy environment: Accelerate the development of relevant laws and regulations for blockchain and protect corporate intellectual property rights.
+![Advice to policy maker](https://github.com/jiangkai-pku/PHBS_BlockChain_2018/blob/master/Advice%20to%20policy%20maker.png)
 ### Reference
  * 徐强.(2018). 深化制造业数字化变革，探索建设工业区块链. [J].智能制造(10), 20-23.
  * 李祥利. (2017). 区块链瞄准工业互联网，两把刷子解决互信机制. [J]. 今日制造与升级(3), 19-21.
